@@ -5,6 +5,13 @@
 Note: Can be used with `nvuillam/mega-linter@insiders` in your GitHub Action mega-linter.yml file, or with `nvuillam/mega-linter@latest` docker image
 
 - Linter versions upgrades
+  - [ansible-lint](https://ansible-lint.readthedocs.io/en/latest/) from 4.2.0 to **0.0.0** on 2021-02-08
+  - [bash-exec](https://tiswww.case.edu/php/chet/bash/bashtop.html) from 5.0.17 to **5.1.0** on 2021-02-08
+  - [hadolint](https://github.com/hadolint/hadolint) from 1.21.0 to **1.22.0** on 2021-02-08
+  - [git_diff](https://git-scm.com) from 2.26.2 to **2.30.0** on 2021-02-08
+  - [php](https://www.php.net) from 7.3.26 to **7.4.15** on 2021-02-08
+  - [phpstan](https://phpstan.org/) from 0.12.71 to **0.12.73** on 2021-02-08
+  - [terragrunt](https://terragrunt.gruntwork.io) from 0.27.1 to **0.28.2** on 2021-02-08
 <!-- linter-versions-end -->
 
 ## [4.26.2] 2021-01-29
